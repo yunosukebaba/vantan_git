@@ -1,2 +1,2 @@
 # vantan_git
-git練習用リポジトリ
+git練習用リポジトリ2
